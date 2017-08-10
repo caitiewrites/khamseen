@@ -1,4 +1,4 @@
-#find this code here as part of the Hoodie instructions: https://learn.adafruit.com/textile-potentiometer-hoodie/stitch-pixels-and-code?view=all#stitch-pixels-and-code
+//find this code here as part of the Hoodie instructions: https://learn.adafruit.com/textile-potentiometer-hoodie/stitch-pixels-and-code?view=all#stitch-pixels-and-code
 
 #include <Adafruit_NeoPixel.h>
 
